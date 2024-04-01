@@ -1,0 +1,19 @@
+.srch input{
+    width: 801px;
+    height: 30px;
+    border: none;
+    padding: 2px 5px;
+    box-sizing: border-box;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.item{
+    margin-left: 60px;
+    margin-bottom: 20px
+}
+.foot{
+    margin-top: 180vh;
+}
+#forth{
+    background-color: rgb(205, 241, 241);
+}
